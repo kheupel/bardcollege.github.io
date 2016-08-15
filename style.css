@@ -1,6 +1,6 @@
 body {
     background-color: rgb(22, 22, 22);
-    color: light blue;
+    color: blue;
     font-size: 150%;
     line-height: 1.4;
 }
@@ -50,7 +50,7 @@ img{
     font-size: 110%;
     background:gray;
     padding: 4px;
-    border:1px solid gold;
+    border:1px solid white;
 }
 
 .button {
