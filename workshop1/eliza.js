@@ -234,6 +234,9 @@ var default_responses = [
   "Please continue",
   "Go on",
   "Do you feel strongly about discussing such things?",
+  "This is hard for both of us",
+  "These are the things I have at my disposal",
+  "I'm sorry too. Please be patient with me"
 ];
 
 function choice(lst) {
